@@ -1,0 +1,1 @@
+This program can encrypt and de-encrypt an ascii file using a simple XOR algorithm with a key. The make file has some simple commands for testing the program, they just need to be provided with an `input` and an `keyfile` file.
